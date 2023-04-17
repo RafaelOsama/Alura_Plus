@@ -38,6 +38,8 @@ background-size: contain;
     color: var(--branco-pricipal);
     display: block;
     text-decoration: none;
+    width: 180%;
+    margin-bottom: 1em;
 }
 
 .botao-secundario {
@@ -53,4 +55,13 @@ background-size: contain;
 .container-titulo {
     font-size: 28px;
     font-weight: 700;
+}
+
+.container-imagem {
+    margin: 1em 0 3em 0;
+
+}
+
+.container-caixa {
+    margin: 0 6em;
 }
