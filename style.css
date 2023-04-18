@@ -66,3 +66,31 @@ text-align: center;
 .container-caixa {
     margin: 0 6em;
 }
+
+.container-secundario {
+    width: 80%;
+}
+
+.secundario {
+    align-items: center;
+    margin: 0 10em;
+}
+
+.descricao-titulo {
+    font-weight: 700;
+    font-size: 48px;
+    color: var(--branco-pricipal);
+    margin-bottom: 0.1em;
+}
+
+.descricao-texto {
+    color: var(--cinza-secundario);
+}
+
+.secundario-botao {
+    display: inline-block;
+    margin-top: 1em;
+}
+container-descricao {
+    padding: 2em;
+}
